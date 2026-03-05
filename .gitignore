@@ -1,0 +1,15 @@
+data/raw/
+data/finetune/
+data/all_addresses.csv
+data/all_tx_hashes.csv
+data/rekt_exploits_dataset.zip
+adapters/
+mlx_models/
+scraper/failures.log
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.DS_Store
